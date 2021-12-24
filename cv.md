@@ -24,7 +24,9 @@ public class HelloWorld
 }
 ```
 ## **Education and courses**
-+ Ural State Pedagogical University(Faculty of Physics and Economics)   
++ Ural State Pedagogical University(Faculty of Physics and Economics)
++ [HTML Academy](https://htmlacademy.ru/)
++ [Freecodecamp](https://www.freecodecamp.org/)   
    
 ## **Work experience:**
 + Basic HTML layout skills
