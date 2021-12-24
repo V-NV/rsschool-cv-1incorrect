@@ -33,6 +33,6 @@ public class HelloWorld
 
 ## **Language:** 
 
-Russian native
+1. Russian native
 
-English level - A1
+2. English level - A1
